@@ -25,6 +25,14 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
    * Dimension
    * Adding or reducing dimension
    * Concat
+* [PyTorch Basic Structure](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/01-basic/pytorch_basic_structure/PyTorch%20Basic%20structure.ipynb)
+   * Basic autograd
+   * Loading data from numpy
+   * Input pipeline
+   * Input pipeline for custom dataset
+   * Pretrained model
+   * Save and load model
+   * Train a simple MNIST Neural nets
 * [Linear Regression]
 * [Logistic Regression]
 * [Feedforward Neural Network]
