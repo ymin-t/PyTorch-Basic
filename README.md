@@ -14,7 +14,7 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
 ## Table of Contents
 
 #### 1. Basics
-* [PyTorch Basics](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/PyTorch%20Basic.ipynb)
+* [PyTorch Basics](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/01-basic/pytorch_basic/PyTorch%20Basic.ipynb)
    * Creating a PyTorch tensor
    * Extracting specific values from tensors
    * Nan and infinite representation
