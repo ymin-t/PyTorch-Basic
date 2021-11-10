@@ -14,7 +14,17 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
 ## Table of Contents
 
 #### 1. Basics
-* [PyTorch Basics]
+* [PyTorch Basics](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/PyTorch%20Basic.ipynb)
+   * Creating a PyTorch tensor
+   * Extracting specific values from tensors
+   * Nan and infinite representation
+   * Sum, min, max, mean
+   * Reshaping and resizing
+   * Basic math operation (plus, minus,times,divide)
+   * Broadcasting
+   * Dimension
+   * Adding or reducing dimension
+   * Concat
 * [Linear Regression]
 * [Logistic Regression]
 * [Feedforward Neural Network]
