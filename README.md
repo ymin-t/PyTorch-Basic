@@ -33,7 +33,7 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
    * Pretrained model
    * Save and load model
    * Train a simple MNIST Neural nets
-* [Linear Regression]
+* [Linear Regression](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/01-basic/pytorch_linear_regression/PyTorch%20Basic%20Linear%20regression.ipynb)
 * [Logistic Regression]
 * [Feedforward Neural Network]
 
