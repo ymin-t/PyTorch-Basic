@@ -34,7 +34,8 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
    * Save and load model
    * Train a simple MNIST Neural nets
 * [Linear Regression](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/01-basic/pytorch_linear_regression/PyTorch%20Basic%20Linear%20regression.ipynb)
-* [Logistic Regression]
+* [Logistic Regression](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/tree/main/tutorials/01-basic/pytorch_logistic_regression)
+  * [Multi Class News Classification](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/01-basic/pytorch_logistic_regression/Logistic%20Regression-Multi%20Class%20Classification.ipynb) 
 * [Feedforward Neural Network]
 
 #### 2. Intermediate
