@@ -53,7 +53,7 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
 * [Image Captioning (CNN-RNN)]
 
 #### 4. NLP
-* [Skipgram]
+* [Skipgram](https://github.com/ymin-t/pytorch-tutorial-jupyter-notebooks/blob/main/tutorials/04-npl/pytorch_skipgram/Skipgram.ipynb)
 
 
 #### 5. Utilities
