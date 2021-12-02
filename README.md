@@ -52,7 +52,11 @@ Hello, this folder contains some codes on PyTorch Basic. I scripted when i was l
 * [Neural Style Transfer]
 * [Image Captioning (CNN-RNN)]
 
-#### 4. Utilities
+#### 4. NLP
+* [Skipgram]
+
+
+#### 5. Utilities
 * [TensorBoard in PyTorch]
 
 
